@@ -1,1 +1,1 @@
-KISS - keep it short and sweet
+K.I.S.S. - keep it short and sweet
