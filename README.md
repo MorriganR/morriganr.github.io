@@ -1,6 +1,6 @@
-## Chaprer \#\#
+### [KISS](https://en.wikipedia.org/wiki/KISS_principle) - keep it short and sweet
 
-K.I.S.S. - keep it short and sweet
+- [React](https://reactjs.org/) - [Hello World](https://lab5.ddyka.com/)
 
 ### Chapter \#\#\# with Table
 
